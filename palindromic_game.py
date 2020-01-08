@@ -1,6 +1,6 @@
 import collections
 
-string = input().upper()
+string = input()
 
 box = collections.Counter()
 
